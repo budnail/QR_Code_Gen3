@@ -142,8 +142,8 @@ Developer Notes:
      1. translate the message into data bits
      2. Calculate the Error Correction Codes using polynomial division
      3. Place the data and ECC bits within a template for evaluation
-     3. Find the best mask to use for the QR code by trying them all and picking the best (grading)
-     3. drawing the qr code on the screen using the mask selected above
+     4. Find the best mask to use for the QR code by trying them all and picking the best (grading)
+     5. drawing the qr code on the screen using the mask selected above
      
   Key functions and data structures:
      
