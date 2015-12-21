@@ -59,8 +59,10 @@ Hardware Consideratons:
 The current version of the program has been targeted specifically to work with the DOG102 series of Displays. But,
 since it uses the U8glib library for Universal 8 bit graphics, the program should be usable with most any graphic display.
 Simply take one of the U8glib examples and pull the line that looks equivalent to:
+```
 //set up SPI for model display used and wiring
 U8GLIB_DOGS102 u8g(13, 11, 10, 9);		// SPI Com: SCK = 13, MOSI = 11, CS = 10, A0(also referenced as CD) = 9
+```
 Replace this line with the one that matches your display.
 Adjust the SPI communication ports to match the ones on your hardware.
 
