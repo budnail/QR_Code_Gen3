@@ -20,6 +20,7 @@ Regardless of the license, the code is free for review and experimentation by in
 
 To use:
 Install [U8glib library for Universal 8 bit graphics](https://github.com/olikraus/u8glib) into your Arduino IDE.
+QR_Code_Gen3... is the main code file.  The others are supporting files. To save memory code that is not used for the currently selected QR Code type (Version 3 L as of this writing) is commented out.  Uncomment code marked for other versions if you wish to use them.
 
 
 History:
