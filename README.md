@@ -57,7 +57,7 @@ Here are design features:
 
 Hardware Consideratons: 
 The current version of the program has been targeted specifically to work with the DOG102 series of Displays. But,
-since it uses the U8glib library for Universal 8 bit graphics, the program should be usable with most any graphic display.
+since it uses the [U8glib library for Universal 8 bit graphics](https://github.com/olikraus/u8glib), the program should be usable with most any graphic display.
 Simply take one of the U8glib examples and pull the line that looks equivalent to:
 ```
 //set up SPI for model display used and wiring
