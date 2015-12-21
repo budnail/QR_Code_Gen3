@@ -18,6 +18,10 @@ Donations are also accepted for further development.
 
 Regardless of the license, the code is free for review and experimentation by individuals and commercial or non-commercial enterprises.
 
+To use:
+Install [U8glib library for Universal 8 bit graphics](https://github.com/olikraus/u8glib) into your Arduino IDE.
+
+
 History:
 When this program development began, in early 2014, it was thought by most (from reviewing forums on the subject) that it would be next to impossible to implement a dynamic QR code generator on a processor such as the Arduino UNO that has so little SRAM.
 
