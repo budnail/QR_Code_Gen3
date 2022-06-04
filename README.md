@@ -10,8 +10,8 @@ This program and support functions fully implement the generation of several use
 It does this in a relatively small memory foot print such as the Arduino Uno and still leaves room for additional application functions.
 It can be easily modified to support additional QR codes with some limitations.
 
-This program is licensed under GPL 2, 3 or LGPL (your choice) that work well for non-commercial and some limited commercial projects (IMHO). 
-If you are interested in a simple low cost commercial or developer's license for embedding in your projects, 
+This program is licensed under GPL 2, 3, LGPL or MIT (your choice) that work well for non-commercial and commercial projects (IMHO). 
+If you are interested in a simple low cost commercial or developer's license for embedding in your projects, and these do not meet your needs 
 see  www.technologicalservicescompany.com for contact information.
 
 Donations are also accepted for further development. 
